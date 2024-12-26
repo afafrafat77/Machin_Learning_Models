@@ -1,4 +1,4 @@
-# Linear Regression from Scratch and Sklearn Comparison
+# Linear Regression Implementation and Sklearn Comparison
 
 This repository contains the implementation of various linear regression algorithms from scratch, as well as a comparison with the results obtained using `sklearn`. 
 The project explores and evaluates different regression tricks including:
